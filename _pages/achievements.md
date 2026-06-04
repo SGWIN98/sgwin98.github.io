@@ -1,9 +1,9 @@
 ---
-permalink: /
+layout: archive
 title: ""
+permalink: /achievements/
 author_profile: true
-redirect_from: 
-  - /achievements/
-  - /achievements.html
+redirect_from:
+  - /achievements
 ---
 Test
