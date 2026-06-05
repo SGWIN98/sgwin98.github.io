@@ -17,6 +17,5 @@ Today, I am particularly interested in planetary interiors, seismic methods, and
 Thank you for visiting. If our interests overlap, I would be happy to connect and discuss research, ideas, or potential collaborations.
 
 With best wishes,
-
-S Ghosh
+Sushanta
 
