@@ -18,4 +18,3 @@ Thank you for visiting. If our interests overlap, I would be happy to connect an
 
 With best wishes,
 Sushanta
-
