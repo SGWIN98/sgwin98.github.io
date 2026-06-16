@@ -7,8 +7,6 @@ redirect_from:
   - /achievements
 ---
 
-## Achievements
-
 ### 2025
 
 * Qualified GATE 2025 in Geology & Geophysics with All India Rank (AIR) 108.
