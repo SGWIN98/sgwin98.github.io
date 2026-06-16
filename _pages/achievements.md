@@ -10,7 +10,7 @@ redirect_from:
 ### 2025
 
 * Qualified GATE 2025 in Geology & Geophysics with All India Rank (AIR) 108.
-* Completed M.Tech. in Applied Geophysics from IIT (ISM) Dhanbad with an OGPA of 8.25/10.
+* Completed MSc.(Tech.) in Applied Geophysics from IIT (ISM) Dhanbad with an OGPA of 8.25/10.
 
 ### 2024
 
@@ -18,7 +18,7 @@ redirect_from:
 
 ### 2023
 
-* Recipient of the Focused Area Summer Research Fellowship (FASRF) under the IASc–INSA–NASI Summer Research Fellowship Programme.
+* Recipient of the Focused Area Science and Technology Summer Fellowship (FAST-SF 2023) from the IASc–INSA–NASI.
 
 ### 2022
 
