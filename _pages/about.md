@@ -6,16 +6,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hello there,
+Earth is only the beginning.
 
-I am a Geophysicist interested in planetary sciences, geophysical exploration, and data-driven approaches to understanding Earth and planetary systems.
+I'm **Sushanta Ghosh**, a Planetary Geophysicist with a vision for the future of exploration—where geophysics guides autonomous missions, uncovers the hidden interiors of distant worlds, and helps make asteroid mining and space resource utilization a reality.
 
-Growing up in a village in India, I spent much of my childhood playing cricket and looking at the night sky. Those experiences sparked a curiosity about the natural world that eventually led me to study Physics and Geophysics.
+Every planet has a story beneath its surface. Every asteroid is a geological archive. I want to build the tools that let us read them.
 
-Today, I am particularly interested in planetary interiors, seismic and other exploration methods, and the application of machine learning to geosciences. I believe that science advances through careful observation, critical thinking, and collaboration.
-
-Thank you for visiting. If our interests overlap, I would be happy to connect and discuss research, ideas, or potential collaborations.
-
-With best wishes,
-
-Sushanta
+The future of humanity isn't just in space.
+It's underground—on worlds we've only begun to explore.
