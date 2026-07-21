@@ -6,11 +6,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Earth is only the beginning.
+I study planetary bodies across our Solar System to understand the natural processes that shape their evolution. By investigating how geological and geophysical processes operate under a wide range of planetary conditions, we gain new perspectives on our own planet. In many ways, other worlds serve as natural laboratories that help us better understand Earth.
 
-I am a Planetary Geophysicist with a vision for the future of space-exploration, unfolds the hidden interiors of distant worlds, and helps make asteroid mining and space resource utilization a reality.
+My research focuses on applying geophysical methods to image the subsurface and characterize natural resources, both on Earth and on other planetary bodies. As Earth's resources are finite, advancing our ability to detect, map, and understand them is essential for their responsible exploration and sustainable use.
 
-Every planet has a story beneath its surface. Every asteroid is a geological archive. I want to build the tools that let us read them.
+Planetary Geophysics is inherently multidisciplinary. It begins with the design and deployment of scientific instruments and extends through signal processing, physics, mathematics, computation, and data science before ultimately arriving at geological interpretation. This journey across disciplines is one of the most rewarding aspects of the field.
 
-The future of humanity isn't just in space.
-It's underground—on worlds we've only begun to explore.
+The complexity of planetary exploration makes collaboration indispensable. I enjoy working with researchers from diverse scientific backgrounds to develop new methods, analyze challenging datasets, and explore questions that lie at the intersection of geophysics, planetary science, and engineering.
+
