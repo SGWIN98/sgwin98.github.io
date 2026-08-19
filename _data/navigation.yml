@@ -16,6 +16,9 @@ main:
 
   - title: "Activity"
     url: /activity/ 
+  
+  - title: "Pathshala"
+    url: /pathshala/  
         
   - title: "Blog"
     url: /blog/
@@ -23,9 +26,7 @@ main:
   - title: "CV"
     url: /cv/
 
-  - title: "Pathshala"
-    url: /pathshala/
-    
+
   # - title: "CV"
   #   url: /cv-json/
     
