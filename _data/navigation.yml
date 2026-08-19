@@ -22,6 +22,9 @@ main:
     
   - title: "CV"
     url: /cv/
+
+  - title: "Pathshala"
+    url: /pathshala/
     
   # - title: "CV"
   #   url: /cv-json/
