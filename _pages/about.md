@@ -6,6 +6,19 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<div style="color: red; font-weight: bold; animation: blink 1.2s linear infinite; margin-bottom: 20px;">
+  <strong>📢 Currently on a relocation career break until December 2026.</strong><br>
+  I am open to opportunities, collaborations, teaching, research activities, and other meaningful engagements — online or in and around Kolkata.
+  <br>
+  <span style="font-weight: normal;">If you have an opportunity or activity you think may be a good fit, please feel free to reach out.</span>
+</div>
+
+<style>
+@keyframes blink {
+  50% { opacity: 0.25; }
+}
+</style>
+
 I study planetary bodies across our Solar System to understand the natural processes that shape their evolution. By investigating how geological and geophysical processes operate under a wide range of planetary conditions, we gain new perspectives on our own planet. In many ways, other worlds serve as natural laboratories that help us better understand Earth.
 
 My research focuses on applying geophysical methods to image the subsurface and characterize natural resources, both on Earth and on other planetary bodies. As Earth's resources are finite, advancing our ability to detect, map, and understand them is essential for their responsible exploration and sustainable use.
