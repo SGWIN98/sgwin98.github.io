@@ -11,19 +11,10 @@ redirect_from:
 
 Work experience
 ======
-* Current : Research Fellow (Project)
-  * Dept. of Earth Science, IIT Roorkee
-  * Project: Lunar Seismic Dataset of Chandrayaan-3
-  * Supervisor: Dr. Simanchal Padhy
-
-* 2025-2026: Geophysicist (Jr.)
-  * MMPL Pvt Ltd
-  * Geophysical Survey; Software Tool Development
-
-* Summer 2023: Summer Research Fellow
-  * Planetary Science Division, PRL (ISRO, DOS India)
-  * Project: Study of Mars using Perseverance Rover Data
-  * Supervisor: Dr Dwijesh Ray
+* Project-JRF, IIT Roorkee, 2026
+* Geophysicist, MMPL Pvt Ltd, 2025-26
+* Summer Intern, PRL (ISRO), 2023
+* Founder, Alingana Healthcare Pvt Ltd, 2019-20
     
 Education
 ======
