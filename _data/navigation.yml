@@ -17,8 +17,8 @@ main:
   - title: "Activity"
     url: /activity/ 
   
-  - title: "Pathshala"
-    url: /pathshala/  
+  #- title: "Pathshala"
+  #  url: /pathshala/  
         
   - title: "Blog"
     url: /blog/
